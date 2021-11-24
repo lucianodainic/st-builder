@@ -6,8 +6,9 @@ Build with squares and triangles within an 8086 assembly language project.
 To run the asm program on ubuntu you will need to: 
 * install DOSBox: sudo apt-get install dosbox; 
 * download [Turbo Assembler (TASM)](https://sourceforge.net/projects/tasmeditor/files/latest/download?source=files) and [Turbo Debugger (TD)](https://winworldpc.com/product/borland-c/20); 
-* create one directory and unzip the downloaded archives into that directory; 
-* place the st-builder.asm file into TASM folder; 
+* create one directory and unzip the TASM archive into that directory; 
+* unzip TD archive and move the files to /tasmeditor/TASM folder;
+* place the st-builder.asm file into /tasmeditor/TASM folder; 
 * open DOSBox and run c /home/<username> then c: ; 
 * cd to the TASM directory; 
 * run the program by the following commands: 
