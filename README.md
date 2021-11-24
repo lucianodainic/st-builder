@@ -9,7 +9,7 @@ To run the asm program on ubuntu you will need to:
 * create one directory and unzip the TASM archive into that directory; 
 * unzip TD archive and move the files to /tasmeditor/TASM folder;
 * place the st-builder.asm file into /tasmeditor/TASM folder; 
-* open DOSBox and run mount c /home/<username> then c: ; 
+* open DOSBox and run: mount c /home/username then c: ; 
 * cd to the TASM directory; 
 * run the program by the following commands: 
   * tasm st-builder.asm, 
