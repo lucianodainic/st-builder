@@ -1,5 +1,5 @@
 # sqrs-nd-trngls
-Build with squares and triangles within an 8086 assembly language project.
+Play with squares and triangles within an 8086 assembly language project.
 
 ![alt text](https://github.com/lucianodainic/st-builder/blob/main/demo.png)
 
